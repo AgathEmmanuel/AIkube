@@ -1,4 +1,4 @@
-# DietFit AI  
+# AIkube  
 
 
 
@@ -7,7 +7,7 @@
 
 ### Problem Definition  
 
-- provide diet and fitness recommendations
+- Generalized AI/ML Systems orchestration with Kubernetes as the control plane  
 
 ### Data Science  
 
