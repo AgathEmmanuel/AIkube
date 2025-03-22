@@ -1,4 +1,30 @@
 # AIkube  
 
 
-A Model manager and orchestrator  
+
+### Research  
+
+DataExperiment  
+
+ModelExperiment  
+
+
+
+### DataEng  
+
+DataPlane  
+
+DataPipe  
+
+DataMonitor  
+
+
+
+### MlEng  
+
+ModelTrain  
+
+ModelServe  
+
+ModelMonitor  
+
